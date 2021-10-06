@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Rudani 
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning MREN
+- 🔭 I’m currently working on ReactJS & Nodejs.
+- ⚡ Available for Freelance projects/internship opportunities.
 - 📫 How to reach me ...   instagram -: https://www.instagram.com/harsh_rudani/ twwiter -: https://twitter.com/harshrudani7
 
 <!---
