@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Rudani 
 - 🔭 I’m currently working on ReactJS & Nodejs.
 - ⚡ Available for Freelance projects/internship opportunities.
-- 📫 How to reach me ...   instagram -: https://www.instagram.com/harsh_rudani/ twwiter -: https://twitter.com/harshrudani7
+- 📫 How to reach me ... bio.link/harshrudani
 
 <!---
 Rharsh750/Rharsh750 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
